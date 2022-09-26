@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Navya S Raj</h1>
 <h3 align="center">I'm a 3rd yr Computer Science student from RIT, Kottayam.</h3>
 
-- 🌱 I’m currently learning **DSA and Coding**
+- 🌱 I’m currently learning **DSA**
 
-- 💬 Ask me about **Blockchain,Python,Flask**
+- 💬 Ask me about **Python,Flask**
 
 - 📄 Here's my [Resume](https://drive.google.com/file/d/1R-m_1bq2zInxxXH793oWYZpETTkC0Spj/view?usp=sharing)
 
