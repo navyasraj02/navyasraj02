@@ -3,8 +3,6 @@
 
 - 💬 Ask me about **Python,Flask**
 
-- 📄 Here's my [Resume](https://drive.google.com/file/d/1R-m_1bq2zInxxXH793oWYZpETTkC0Spj/view?usp=sharing)
-
 - 👨‍💻 My coding profiles :
 <a href="https://www.hackerrank.com/nsr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nsr02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nav120902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nav120902" height="30" width="40" /></a>
