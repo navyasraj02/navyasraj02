@@ -31,3 +31,7 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navyasraj02&show_icons=true&locale=en" alt="navyasraj02" /></p>
+
+#### My Badges
+
+[![@navyasraj's Holopin board](https://holopin.io/api/user/board?user=navyasraj)](https://holopin.io/@navyasraj)
