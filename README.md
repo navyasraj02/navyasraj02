@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navya S Raj</h1>
-<h3 align="center">I'm a 3rd yr Computer Science student from RIT, Kottayam.</h3>
+<h3 align="center">I'm a 4th yr Computer Science student from RIT, Kottayam.</h3>
 
-- 💬 Ask me about **Python,Flask**
+- 💬 Ask me about **Python**
 
 - 👨‍💻 My coding profiles :
 <a href="https://www.hackerrank.com/nsr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nsr02" height="30" width="40" /></a>
@@ -12,7 +12,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/navya s raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navya s raj" height="30" width="40" /></a>
 <a href="https://instagram.com/_navya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_navya02" height="30" width="40" /></a>
-<a href="https://twitter.com/navyasraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navyasraj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
