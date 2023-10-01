@@ -4,9 +4,8 @@
 - 💬 Ask me about **Python**
 
 - 👨‍💻 My coding profiles :
-<a href="https://www.hackerrank.com/nsr02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nsr02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nav120902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nav120902" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/navya02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navya02" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nav120902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nav120902" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
